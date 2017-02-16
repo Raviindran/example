@@ -1,0 +1,10 @@
+class A{
+val a =10
+val b =20
+def this(a:Int,b:Int,c:Int){
+this. a=a
+this. b=b
+c =a+b
+print(c)
+}
+}
